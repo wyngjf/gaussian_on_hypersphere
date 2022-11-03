@@ -5,7 +5,7 @@ from von_mises_fisher import VonMisesFisher
 from utils import quaternion_average, quaternion_rotate
 from utils import set_3d_equal_auto, draw_frame_3d, set_3d_ax_label
 from utils import sphere_logarithmic_map, multivariate_normal, get_covariance
-import robot_utils
+# import robot_utils
 color_spec = plt.get_cmap("plasma")
 
 
